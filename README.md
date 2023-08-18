@@ -30,6 +30,15 @@ You can find the dataset in the folder of this repository: [pizza_sales_data.csv
 
 5. **Inspirations:** The project drew inspiration from the [Data Tutorials]([link-to-channel](https://www.youtube.com/@datatutorials1)) YouTube channel.
 
+## Final State
+![image](https://github.com/romka516/Pizza-Sales-Analyses-by-Power-BI/assets/101732278/0b5a4952-ccee-41e8-afc3-4d9e08b0a4ec)
+Home Page
+
+
+![image](https://github.com/romka516/Pizza-Sales-Analyses-by-Power-BI/assets/101732278/3492a5e7-2885-4597-aa52-127fee0f7c92)
+Best/Worst Seller Page
+
+
 ## Usage
 
 To view the complete analysis process, insights, and visualizations, refer to the [Technical Documentation.pdf](Technical%20Documentation.pdf) file in this repository.
