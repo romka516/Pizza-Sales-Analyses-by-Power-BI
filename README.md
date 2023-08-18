@@ -36,7 +36,7 @@ Home Page
 
 
 ![image](https://github.com/romka516/Pizza-Sales-Analyses-by-Power-BI/assets/101732278/3492a5e7-2885-4597-aa52-127fee0f7c92)
-Best/Worst Seller Page
+Best/Worst Sellers Page
 
 
 ## Usage
