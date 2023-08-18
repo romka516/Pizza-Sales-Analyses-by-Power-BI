@@ -2,6 +2,12 @@
 
 This repository contains a data analysis project focused on pizza sales data from the year 2015. The project was carried out using Power BI for data visualization and analysis. Alongside the analysis, a comprehensive technical documentation in the form of [Technical Documentation.pdf](Technical%20Documentation.pdf) was prepared to provide a detailed overview of the steps taken and the insights gained from the data.
 
+## Dataset
+
+The primary dataset used in this project is the `pizza_sales_data.csv` file. This dataset contains information about pizza sales for the year 2015. It includes attributes such as order date, pizza category, pizza size, quantity, and revenue.
+
+You can find the dataset in the folder of this repository: [pizza_sales_data.csv](dataset/pizza_sales_data.csv).
+
 ## Project Overview
 
 The objective of this project was to analyze and visualize pizza sales data from the year 2015. The data was cleaned and transformed using Power Query in Power BI, and various visualizations were created to understand sales trends, key performance indicators (KPIs), and distribution of pizza sales by category and size.
